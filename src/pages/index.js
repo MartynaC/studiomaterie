@@ -11,9 +11,10 @@ const IndexPage = () => (
    
     <GlitchText component='h1'>
            STUDIO MATERIE
+           hello@studiomaterie.com
          </GlitchText>
 
-  hello@studiomaterie.com
+  
   </Layout>
 
 )
