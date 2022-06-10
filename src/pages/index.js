@@ -13,7 +13,7 @@ const IndexPage = () => (
            STUDIO MATERIE
          </GlitchText>
 
- 
+  hello@studiomaterie.com
   </Layout>
 
 )
